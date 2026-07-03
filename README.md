@@ -1,4 +1,4 @@
-# XI_AI_2026
+# XI_AI_2026-27
 
 
 # 📁 Reference Materials & Lecture Contents
